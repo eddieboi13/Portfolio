@@ -26,7 +26,7 @@ const profile = {
 const projects = [
   {
     title: "Game Boy Emulator (C + SDL2)",
-    image: "Tetris.png",
+    image: "/images/Tetris.png",
     description:
       "CPU, PPU, timers/interrupts, and MBC1/2/3/5. Used for learning low‑level architecture and passing classic test ROMs.",
     tags: ["C", "SDL2", "Emulation", "Low‑Level"],
@@ -34,7 +34,7 @@ const projects = [
   },
   {
     title: "Wi‑Fi Diagnostics (SwiftUI + CoreWLAN)",
-    image: "Wifi.png",
+    image: "/images/Wifi.png",
     description:
       "macOS app that scans SSIDs/BSSIDs, logs SNR and channel width, and visualizes network health; wrangled code‑signing and permissions.",
     tags: ["SwiftUI", "CoreWLAN", "macOS"],
@@ -42,7 +42,7 @@ const projects = [
   },
   {
     title: "Fund-a-Box",
-    image: "logo copy.png",
+    image: "/images/logo copy.png",
     description:
       "Collaborative Hackathon project: a community-driven app that supports garden creation through donations, guides, social interaction, and local partnerships.",
     tags: ["React", "Firebase"],
