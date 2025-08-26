@@ -30,7 +30,7 @@ const projects = [
     description:
       "CPU, PPU, timers/interrupts, and MBC1/2/3/5. Used for learning low‑level architecture and passing classic test ROMs.",
     tags: ["C", "SDL2", "Emulation", "Low‑Level"],
-    href: "#",
+    href: "https://github.com/eddieboi13/Gameboy_Emulator",
   },
   {
     title: "Wi‑Fi Diagnostics (SwiftUI + CoreWLAN)",
@@ -38,7 +38,7 @@ const projects = [
     description:
       "macOS app that scans SSIDs/BSSIDs, logs SNR and channel width, and visualizes network health; wrangled code‑signing and permissions.",
     tags: ["SwiftUI", "CoreWLAN", "macOS"],
-    href: "#",
+    href: "https://github.com/eddieboi13/WifiDiagnostics",
   },
   {
     title: "Fund-a-Box",
@@ -46,7 +46,7 @@ const projects = [
     description:
       "Collaborative Hackathon project: a community-driven app that supports garden creation through donations, guides, social interaction, and local partnerships.",
     tags: ["React", "Firebase"],
-    href: "#",
+    href: "https://github.com/Chiboy560/Fund-A-Box",
   },
 ];
 
